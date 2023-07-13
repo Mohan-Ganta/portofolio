@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.cd7501d7.css",
+    "main.js": "/portofolio/static/js/main.4f8cd891.js",
+    "static/media/hackerrank.png": "/portofolio/static/media/hackerrank.886d842f2f55fa672dcd.png",
+    "static/media/spotify.png": "/portofolio/static/media/spotify.d4b56b46a0086230fb23.png",
+    "static/media/vjthalearning.png": "/portofolio/static/media/vjthalearning.cdc85907fd7d332deb6f.png",
+    "static/media/resume.pdf": "/portofolio/static/media/resume.d0d114001dc783b557c4.pdf",
+    "static/media/cz.jpg": "/portofolio/static/media/cz.75e750a1d49566a3cbfa.jpg",
+    "static/media/Outstanding.jpg": "/portofolio/static/media/Outstanding.9f0a777e32a83884d73a.jpg",
+    "static/media/boy.png": "/portofolio/static/media/boy.13213880b149bb2f272f.png",
+    "static/media/vjtha_logo.png": "/portofolio/static/media/vjtha_logo.c3d044dfc9d01e5a2b34.png",
+    "static/media/Accenture.png": "/portofolio/static/media/Accenture.17ca515816d68c5ae68c.png",
+    "static/media/glassesimoji.png": "/portofolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/red_logo.png": "/portofolio/static/media/red_logo.52df12a094bd3c936a01.png",
+    "static/media/thumbup.png": "/portofolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portofolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portofolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portofolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portofolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portofolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portofolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/codingzen.jpeg": "/portofolio/static/media/codingzen.9b1013c73ab4569a1183.jpeg",
+    "index.html": "/portofolio/index.html",
+    "main.cd7501d7.css.map": "/portofolio/static/css/main.cd7501d7.css.map",
+    "main.4f8cd891.js.map": "/portofolio/static/js/main.4f8cd891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7501d7.css",
+    "static/js/main.4f8cd891.js"
+  ]
+}
